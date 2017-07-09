@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BFA63051-03A0-466B-9501-6DEDB5D0FF12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex05.WinFormUI/ColorButton.cs">
+    <Files>
+      <File FileName="Ex05.WinFormUI/FormLogin.cs" Line="4" Column="1" />
+      <File FileName="Ex05.WinFormUI/FormGame.cs" Line="115" Column="10" />
+      <File FileName="Ex05.WinFormUI/Program.cs" Line="13" Column="1" />
+      <File FileName="Ex05.WinFormUI/FormColorChoice.cs" Line="1" Column="1" />
+      <File FileName="Ex05.WinFormUI/ColorButton.cs" Line="1" Column="1" />
+      <File FileName="Ex05.WinFormUI/GuessBoxes.cs" Line="25" Column="1" />
+      <File FileName="Ex05.BullsEyeLogic/Game.cs" Line="1" Column="1" />
+      <File FileName="Ex05.WinFormUI/GuessColorButton.cs" Line="1" Column="1" />
+      <File FileName="Ex05.BullsEyeLogic/Turn.cs" Line="1" Column="1" />
+      <File FileName="Ex05.WinFormUI/Row.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mastermind" expanded="True" selected="True">
+            <Node name="Ex05.WinFormUI" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mastermind.Logic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mastermind.WinFormUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.BullsEyeLogic/bin/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.BullsEyeLogic/bin/Debug/Ex05.BullsEyeLogic.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.csproj.CoreCompileInputs.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.BullsEyeLogic/bin/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.BullsEyeLogic/bin/Debug/Ex05.BullsEyeLogic.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.csproj.CoreCompileInputs.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.BullsEyeLogic/obj/Debug/Ex05.BullsEyeLogic.pdb

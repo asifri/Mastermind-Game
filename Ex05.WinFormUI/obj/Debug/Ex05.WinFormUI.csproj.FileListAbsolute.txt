@@ -1,0 +1,16 @@
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/bin/Debug/Ex05.WinFormUI.exe
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/bin/Debug/Ex05.WinFormUI.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.csproj.CoreCompileInputs.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.exe
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/bin/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/bin/Debug/Ex05.BullsEyeLogic.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/workspace2/B17 Ex05 OfirLapid 305260846 AsafFried 314078676/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.csprojResolveAssemblyReference.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/bin/Debug/Ex05.WinFormUI.exe
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/bin/Debug/Ex05.WinFormUI.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/bin/Debug/Ex05.BullsEyeLogic.dll
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/bin/Debug/Ex05.BullsEyeLogic.pdb
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.csprojResolveAssemblyReference.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.csproj.CoreCompileInputs.cache
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.exe
+/Users/rutiearens/Desktop/מדעי המחשב/שנה ב/סימסטר ב/C#/MasterMind/Ex05.WinFormUI/obj/Debug/Ex05.WinFormUI.pdb
